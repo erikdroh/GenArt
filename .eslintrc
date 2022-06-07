@@ -1,0 +1,4 @@
+{
+  "extends": "next",
+  "rules": { "react/no-unescaped-entities": 0, "jsx-a11y/alt-text": 0, "import/no-anonymous-default-export": 0, "@next/next/no-css-tags": 0, "@next/next/no-img-element": "off" }
+}
